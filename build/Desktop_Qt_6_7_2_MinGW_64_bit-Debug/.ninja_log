@@ -1,0 +1,23 @@
+# ninja log v6
+17	2053	7406770431288602	EduQuest-1_autogen/timestamp	25865e55b877fe1e
+17	2053	7406770431288602	EduQuest-1_autogen/mocs_compilation.cpp	25865e55b877fe1e
+17	2053	7406770431288602	C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/EduQuest-1_autogen/timestamp	25865e55b877fe1e
+17	2053	7406770431288602	C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/EduQuest-1_autogen/mocs_compilation.cpp	25865e55b877fe1e
+2075	5089	7406770434738963	CMakeFiles/EduQuest-1.dir/main.cpp.obj	6c7581448d91055d
+2067	5139	7406770434535317	CMakeFiles/EduQuest-1.dir/EduQuest-1_autogen/mocs_compilation.cpp.obj	4815e47a0ea6909b
+2084	5391	7406770434738963	CMakeFiles/EduQuest-1.dir/mainwindow.cpp.obj	9b7fbfdc2aef5510
+5392	6094	7406770467908926	EduQuest-1.exe	c2b81b7574ccb8e6
+48	284	7406775362265910	EduQuest-1_autogen/timestamp	25865e55b877fe1e
+48	284	7406775362265910	EduQuest-1_autogen/mocs_compilation.cpp	25865e55b877fe1e
+48	284	7406775362265910	C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/EduQuest-1_autogen/timestamp	25865e55b877fe1e
+48	284	7406775362265910	C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/EduQuest-1_autogen/mocs_compilation.cpp	25865e55b877fe1e
+285	3226	7406775364689028	CMakeFiles/EduQuest-1.dir/mainwindow.cpp.obj	9b7fbfdc2aef5510
+3227	3517	7406775394097429	EduQuest-1.exe	c2b81b7574ccb8e6
+99	862	7406778093994001	EduQuest-1_autogen/timestamp	25865e55b877fe1e
+99	862	7406778093994001	EduQuest-1_autogen/mocs_compilation.cpp	25865e55b877fe1e
+99	862	7406778093994001	C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/EduQuest-1_autogen/timestamp	25865e55b877fe1e
+99	862	7406778093994001	C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/EduQuest-1_autogen/mocs_compilation.cpp	25865e55b877fe1e
+863	3601	7406778095065651	CMakeFiles/EduQuest-1.dir/EduQuest-1_autogen/mocs_compilation.cpp.obj	4815e47a0ea6909b
+869	3620	7406778095100542	CMakeFiles/EduQuest-1.dir/main.cpp.obj	6c7581448d91055d
+875	4238	7406778095190562	CMakeFiles/EduQuest-1.dir/mainwindow.cpp.obj	9b7fbfdc2aef5510
+4238	4510	7406778128814944	EduQuest-1.exe	c2b81b7574ccb8e6

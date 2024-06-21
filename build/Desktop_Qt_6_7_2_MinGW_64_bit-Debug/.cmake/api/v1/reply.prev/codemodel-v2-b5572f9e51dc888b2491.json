@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a79fc3c20d52d1d23daa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EduQuest-1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EduQuest-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EduQuest-1-Debug-f56fc7e25c7d00ddf413.json",
+					"name" : "EduQuest-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EduQuest-1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EduQuest-1_autogen-Debug-3c792b45d418aea201c8.json",
+					"name" : "EduQuest-1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EduQuest-1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EduQuest-1_autogen_timestamp_deps-Debug-9a5086e51246829ebd52.json",
+					"name" : "EduQuest-1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ugrat/Desktop/EduQuest-1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ugrat/Desktop/EduQuest-1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
